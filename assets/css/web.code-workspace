@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../수업자료/08_DeltaAir-main/08_DeltaAir-main"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "web"
+    }
+}
